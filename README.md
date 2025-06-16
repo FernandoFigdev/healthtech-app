@@ -68,7 +68,7 @@ lib/
 1. **Clone o Repositório:**
 
 ```bash
-git clone https://github.com/seuusuario/HealthTech-App.git
+git clone https://github.com/FernandoFigdev/healthtech-app.git
 cd HealthTech-App
 ```
 
